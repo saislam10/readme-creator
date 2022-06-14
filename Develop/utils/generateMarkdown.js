@@ -14,22 +14,27 @@ const generateMarkdown = ({
 })=> {
   console.log('GENERATING PAGE…');
   const ReadMe = (
-
-
     `
 # ${repository}
 
 # Table of Contents
 1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contribution](#contribution)
-5. [Tests](#tests)
-6. [License](#license)
+2. [License](#license)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contribution](#contribution)
+6. [Tests](#tests)
 7. [Questions](#questions)
 
 ## Description
 ${description}
+
+## License
+
+This application is covered under the ${license} license.
+
+<img src="https://img.shields.io/badge/license-${license}-blue" alt="badge-${license}" />
+
 
 ## Installation
 ${installation}
@@ -37,19 +42,22 @@ ${installation}
 ## Usage
 ${usage}
 
-## Contribution
+## Contributing
 ${contribution}
 
 ## Tests
 ${tests}
 
 ## License
+
+This application is covered under the ${license} license.
+
 <img src="https://img.shields.io/badge/license-${license}-blue" alt="badge-${license}" />
 
 ## Questions
-If you have any questions, please visit the following:
+If you have any further questions, please visit my GitHub profile or email me:
 
-GitHub username: ${gitHub}
+GitHub: https://github.com/${gitHub}
 
 Email: ${email}
 
