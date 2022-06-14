@@ -1,7 +1,7 @@
 
 # Weather App
 
-## Table of Contents
+# Table of Contents
 1. [Description](#description)
 2. [License](#license)
 3. [Installation](#installation)
@@ -15,28 +15,34 @@ Shows weather for different cities
 
 ## License
 
-This application is covered under the MIT license.
+This application is covered under the Apache license.
 
-<img src="https://img.shields.io/badge/license-MIT-blue" alt="badge-MIT" />
+<img src="https://img.shields.io/badge/license-Apache-blue" alt="badge-Apache" />
 
 
 ## Installation
-You open it up in browser
+Open in browser
 
 ## Usage
-You open it in browser
+Open in browser
 
 ## Contributing
-By forking repo and making changes then committing
+By forking on github and committing
 
 ## Tests
-In GitHub
+On github
+
+## License
+
+This application is covered under the Apache license.
+
+<img src="https://img.shields.io/badge/license-Apache-blue" alt="badge-Apache" />
 
 ## Questions
 If you have any further questions, please visit my GitHub profile or email me:
 
 GitHub: https://github.com/saislam10
 
-Email: saislam10@davidson.com
+Email: saislam10@gmail.com
 
     

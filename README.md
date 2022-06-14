@@ -31,8 +31,8 @@ ReadMe Previewed:
 
 
 ## Resources
-[ReadMe Site](https://saislam10.github.io/weather/)
+[ReadMe Site](https://raw.githubusercontent.com/saislam10/readme-creator/main/Develop/output/README.md)
 
-[Video Link](https://github.com/saislam10/weather)
+[Video Link](https://drive.google.com/file/d/1lmq9Mf77iBmXHQBXgar6ZT1yrgY2layA/view)
 
-[GitHub Repository](https://github.com/saislam10/weather)
+[GitHub Repository](https://github.com/saislam10/readme-creator)
