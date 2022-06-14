@@ -22,7 +22,7 @@ const generateMarkdown = ({
 2. [License](#license)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contribution](#contribution)
+5. [Contributing](#contributing)
 6. [Tests](#tests)
 7. [Questions](#questions)
 

@@ -1,5 +1,5 @@
 
-# Weather App
+# s
 
 # Table of Contents
 1. [Description](#description)
@@ -11,38 +11,38 @@
 7. [Questions](#questions)
 
 ## Description
-Shows weather for different cities
+s
 
 ## License
 
-This application is covered under the Apache license.
+This application is covered under the GPL license.
 
-<img src="https://img.shields.io/badge/license-Apache-blue" alt="badge-Apache" />
+<img src="https://img.shields.io/badge/license-GPL-blue" alt="badge-GPL" />
 
 
 ## Installation
-Open in browser
+s
 
 ## Usage
-Open in browser
+s
 
 ## Contributing
-By forking on github and committing
+s
 
 ## Tests
-On github
+ss
 
 ## License
 
-This application is covered under the Apache license.
+This application is covered under the GPL license.
 
-<img src="https://img.shields.io/badge/license-Apache-blue" alt="badge-Apache" />
+<img src="https://img.shields.io/badge/license-GPL-blue" alt="badge-GPL" />
 
 ## Questions
 If you have any further questions, please visit my GitHub profile or email me:
 
-GitHub: https://github.com/saislam10
+GitHub: https://github.com/s
 
-Email: saislam10@gmail.com
+Email: s
 
     
